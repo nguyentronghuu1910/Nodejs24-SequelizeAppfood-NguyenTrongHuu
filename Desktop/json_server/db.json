@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu",
+      "description": "Kiến thức cơ bản giành cho người mới, không phân biệt bạn theo Front-End, Back-End hay Devops."
+    },
+    {
+      "id": 2,
+      "name": "Xây dựng khóa học với Nodejs $ Example ",
+      "description": "1 xây dựng trang web trong thực tế với Nodejs $ Example."
+    },
+    {
+      "name": "HTML, CSS tips",
+      "description": "tutorials về HTML, CSS, UI, UX sẽ được tổng hợp tại khóa học này, các video có nội dung ngắn gọn, súc tích giúp học viên có thể ứng dụng ngay vào thực tế.",
+      "id": 4
+    },
+    {
+      "name": "HTML, CSS tips 2",
+      "description": "tutorials về HTML, CSS, UI, UX sẽ được tổng hợp tại khóa học này, các video có nội dung ngắn gọn, súc tích giúp học viên có thể ứng dụng ngay vào thực tế.",
+      "id": 7
+    }
+  ]
+}
